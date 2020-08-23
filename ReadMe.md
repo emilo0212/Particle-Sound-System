@@ -4,10 +4,10 @@ PSS is a system originally created based on the idea of having particles to reac
 ### Demonstration
 The project can be downloaded and tested by downloading the Demo folder and starting the exe file. 
 Here's a preview:
-![](Images/Picture1.png)
-![](Images/Picture2.png)
-![](Images/Picture3.png)
-![](Images/Picture4.png)
+![](Images/Picture1.PNG)
+![](Images/Picture2.PNG)
+![](Images/Picture3.PNG)
+![](Images/Picture4.PNG)
 
 ### References
 
